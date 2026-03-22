@@ -250,7 +250,7 @@
 .bg-breadcrumb {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(0, 18, 72, 0.7), rgba(0, 18, 72, 0.7)), url(../img/carousel-2.jpg);
+    background: linear-gradient(rgba(0, 68, 187, 0.7), rgba(0, 68, 187, 0.7)), url(../img/carousel-2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -604,7 +604,7 @@
 
 /*** Footer Start ***/
 .footer {
-    background: linear-gradient(rgba(0, 18, 72, 0.9), rgba(0, 18, 72, 1)), url(../img/footer-img.jpg);
+    background: linear-gradient(rgba(0, 68, 187, 0.9), rgba(0, 68, 187, 1)), url(../img/footer-img.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
